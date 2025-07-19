@@ -90,6 +90,7 @@
     <ProjectReference Include="..\Binner.Legacy\Binner.Legacy.csproj" />
     <ProjectReference Include="..\Binner.Model\Binner.Model.csproj" />
     <ProjectReference Include="..\Nexar.Client\Nexar.Client.csproj" />
+    <ProjectReference Include="..\..\Data\Binner.Data\Binner.Data.csproj" />
   </ItemGroup>
 
   <!-- Import common solution/project settings -->

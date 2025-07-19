@@ -47,7 +47,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Binner.Global.Common", "Lib
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barcoder.Renderer.Image", "External\barcoder\Barcoder.Renderer.Image\Barcoder.Renderer.Image.csproj", "{0037D5E6-5FE2-4989-8668-266DB89DBAF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binner.Testing", "Binner.Testing\Binner.Testing.csproj", "{40DC1A89-53C2-F810-A553-37F16F59A8D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binner.Testing", "Tests\Binner.Testing\Binner.Testing.csproj", "{40DC1A89-53C2-F810-A553-37F16F59A8D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binner.Services", "Library\Binner.Services\Binner.Services.csproj", "{D5038A55-3F2F-4FE5-20F0-B7FC89F543D7}"
 EndProject
